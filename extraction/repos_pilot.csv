@@ -1,0 +1,11 @@
+repo_id,agent_prs,companies,bot_share,merged,products,users,user_main_products,cell_users,cell_companies,full_name,stars,language,is_forked
+544640400,16,1,0.0,0.125,Claude_Code,1,1,1,one,brickbots/PiFinder,234,Jupyter Notebook,False
+60111626,16,1,0.0,1.0,Claude_Code,1,1,1,one,jline/jline3,1756,Java,False
+9549081,16,2,0.0625,0.8125,Copilot+Cursor,1,1,1,several,rspamd/rspamd,2433,C,False
+1109734469,16,2,0.4375,0.9375,Copilot+OpenAI_Codex,1,1,1,several,harumiWeb/exstruct,133,Python,False
+1136724882,16,2,0.3125,0.6875,Copilot+OpenAI_Codex,1,1,1,several,opgginc/opencode-bar,228,Swift,False
+206439707,15,1,0.0,1.0,Claude_Code,2,1,2-4,one,bikeshaving/crank,2791,TypeScript,False
+31054513,15,1,0.13333333333333333,0.8666666666666667,Claude_Code,2,1,2-4,one,happo/happo,510,TypeScript,False
+1158200188,15,3,0.4666666666666667,0.6666666666666666,Claude_Code+Copilot+OpenAI_Codex,2,2,2-4,several,CelestoAI/SmolVM,226,Python,False
+1030039430,16,2,0.0,0.9375,Claude_Code+OpenAI_Codex,4,1,2-4,several,automagik-dev/genie,278,TypeScript,False
+1067949357,16,3,0.5,0.25,Claude_Code+Copilot+OpenAI_Codex,4,2,2-4,several,meta-pytorch/OpenEnv,1590,Python,False

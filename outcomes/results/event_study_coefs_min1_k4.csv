@@ -1,0 +1,91 @@
+outcome,label,e,coef,se,n,treated_repos
+hum_broke_main,People without agents: broke the main branch,-3,0.08390142326966288,0.12664286928289972,489,74
+hum_broke_main,People without agents: broke the main branch,-2,-0.09970024505182122,0.07671541207859148,489,74
+hum_broke_main,People without agents: broke the main branch,-1,0.0,0.0,489,74
+hum_broke_main,People without agents: broke the main branch,0,0.07952665928355068,0.04800564391397552,489,74
+hum_broke_main,People without agents: broke the main branch,1,-0.05748732241832061,0.07959478227324503,489,74
+hum_broke_main,People without agents: broke the main branch,2,-0.05189072879327632,0.07101533542252986,489,74
+hum_broke_main,People without agents: broke the main branch,3,-0.17781521099926667,0.08244858843065657,489,74
+hum_broke_main,People without agents: broke the main branch,4,-0.2725281068007358,0.06536154985900654,489,74
+hum_broke_main,People without agents: broke the main branch,5,-0.3480552327087165,0.07458055502799374,489,74
+hum_log_hours,People without agents: log hours to merge,-3,0.46725805319244273,0.5846456410326042,602,77
+hum_log_hours,People without agents: log hours to merge,-2,0.4492777656160991,0.8009450242141473,602,77
+hum_log_hours,People without agents: log hours to merge,-1,0.0,0.0,602,77
+hum_log_hours,People without agents: log hours to merge,0,0.6023870831300338,0.3503138579063372,602,77
+hum_log_hours,People without agents: log hours to merge,1,1.0869661132055326,0.5796431087297971,602,77
+hum_log_hours,People without agents: log hours to merge,2,1.3492123525203938,0.5153947805833561,602,77
+hum_log_hours,People without agents: log hours to merge,3,1.5067236197984004,0.6540911759510486,602,77
+hum_log_hours,People without agents: log hours to merge,4,1.699636377578394,0.6540996084746421,602,77
+hum_log_hours,People without agents: log hours to merge,5,2.1982939960074885,0.6751106338243346,602,77
+hum_log_n,People without agents: log pull requests,-3,0.1970522797868789,0.389496709803523,991,86
+hum_log_n,People without agents: log pull requests,-2,0.32029184353497075,0.3014122047653836,991,86
+hum_log_n,People without agents: log pull requests,-1,0.0,0.0,991,86
+hum_log_n,People without agents: log pull requests,0,0.22487855291876496,0.15175075407394611,991,86
+hum_log_n,People without agents: log pull requests,1,0.37656859812085003,0.1717085337975467,991,86
+hum_log_n,People without agents: log pull requests,2,0.23305240550375794,0.20860708578310133,991,86
+hum_log_n,People without agents: log pull requests,3,0.11447858722515865,0.2410595032100764,991,86
+hum_log_n,People without agents: log pull requests,4,0.13725753272076882,0.276066420983619,991,86
+hum_log_n,People without agents: log pull requests,5,-0.10335469862424933,0.39191425019452036,991,86
+hum_merged,People without agents: share merged,-3,-0.09690982495916202,0.16658929449505958,679,84
+hum_merged,People without agents: share merged,-2,-0.14602054661344394,0.10972264421000323,679,84
+hum_merged,People without agents: share merged,-1,0.0,0.0,679,84
+hum_merged,People without agents: share merged,0,-0.07489342262045975,0.07263388925067842,679,84
+hum_merged,People without agents: share merged,1,-0.03279188977630393,0.09873167398169568,679,84
+hum_merged,People without agents: share merged,2,-0.03150224256644002,0.07641816111947794,679,84
+hum_merged,People without agents: share merged,3,0.1029905940472956,0.06313277174280721,679,84
+hum_merged,People without agents: share merged,4,0.04607310378357538,0.10367635273149027,679,84
+hum_merged,People without agents: share merged,5,0.10998419287452033,0.1961224084602642,679,84
+inc_broke_main,Incumbent: broke the main branch,-3,0.3115601107231708,0.1238143599374605,445,75
+inc_broke_main,Incumbent: broke the main branch,-2,0.10405821104740451,0.07530677489478561,445,75
+inc_broke_main,Incumbent: broke the main branch,-1,0.0,0.0,445,75
+inc_broke_main,Incumbent: broke the main branch,0,-0.029170954361430305,0.055754565603832094,445,75
+inc_broke_main,Incumbent: broke the main branch,1,0.02374547535646647,0.0715126988104394,445,75
+inc_broke_main,Incumbent: broke the main branch,2,0.06872946089252843,0.10994225563462767,445,75
+inc_broke_main,Incumbent: broke the main branch,3,-0.026545930655718242,0.07673294593241463,445,75
+inc_broke_main,Incumbent: broke the main branch,4,0.02559110580418674,0.08330748124771845,445,75
+inc_broke_main,Incumbent: broke the main branch,5,0.11479422284132085,0.10726122899369939,445,75
+inc_log_hours,Incumbent: log hours to merge,-3,-0.3506605016149804,1.2360927003703521,542,81
+inc_log_hours,Incumbent: log hours to merge,-2,-0.6296594045186269,0.630423110255246,542,81
+inc_log_hours,Incumbent: log hours to merge,-1,0.0,0.0,542,81
+inc_log_hours,Incumbent: log hours to merge,0,-0.3438196143707367,0.45768658954577685,542,81
+inc_log_hours,Incumbent: log hours to merge,1,-0.1494355430250233,0.4746590518177055,542,81
+inc_log_hours,Incumbent: log hours to merge,2,0.42139847693378735,0.6635578804940973,542,81
+inc_log_hours,Incumbent: log hours to merge,3,0.6581648924017992,0.5616293217856994,542,81
+inc_log_hours,Incumbent: log hours to merge,4,2.1795298077178464,0.6574735284330107,542,81
+inc_log_hours,Incumbent: log hours to merge,5,1.8302879232672176,0.6383912273375308,542,81
+inc_log_n,Incumbent: log pull requests,-3,-0.8838975430517823,0.3775570346744944,991,86
+inc_log_n,Incumbent: log pull requests,-2,-0.08786790741330983,0.338356182977756,991,86
+inc_log_n,Incumbent: log pull requests,-1,0.0,0.0,991,86
+inc_log_n,Incumbent: log pull requests,0,0.6370817251819552,0.2503528389699062,991,86
+inc_log_n,Incumbent: log pull requests,1,0.7044042201399451,0.34225278777715373,991,86
+inc_log_n,Incumbent: log pull requests,2,0.4526275393604871,0.35870020404166986,991,86
+inc_log_n,Incumbent: log pull requests,3,0.7510069279278951,0.35423749294282764,991,86
+inc_log_n,Incumbent: log pull requests,4,0.7409661923179008,0.34869726942442175,991,86
+inc_log_n,Incumbent: log pull requests,5,1.0861352395063333,0.40038297965060377,991,86
+inc_lost_other,Incumbent: lines deleted by someone else,-3,0.11603335727686197,0.2541038732899598,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,-2,0.043989352013041896,0.0882998027641019,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,-1,0.0,0.0,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,0,-0.003741341721043335,0.07496904338326037,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,1,-0.04927209768598965,0.049757119082258196,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,2,-0.032586440921985114,0.0806435609579813,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,3,0.01568263667034981,0.060477072570709084,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,4,-0.19443977150102879,0.07868248974129566,426,69
+inc_lost_other,Incumbent: lines deleted by someone else,5,-0.4912033258846845,0.08079037558802413,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,-3,-0.0915295717587261,0.08220275118009882,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,-2,-0.06488754399817623,0.05045012515469764,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,-1,0.0,0.0,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,0,0.024675512326083,0.03089909412455428,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,1,-0.11399231996988972,0.07280438199257458,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,2,-0.15848513276057574,0.05717477742667192,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,3,-0.16543230502747028,0.053853920537708926,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,4,-0.3002609498912611,0.07542643467290965,426,69
+inc_lost_share,Incumbent: share of lines deleted in 30 days,5,-0.667334010223864,0.04840663046981376,426,69
+inc_merged,Incumbent: share merged,-3,-0.15907662217816376,0.1122723393072959,574,86
+inc_merged,Incumbent: share merged,-2,0.0025387483767206794,0.06057639412920038,574,86
+inc_merged,Incumbent: share merged,-1,0.0,0.0,574,86
+inc_merged,Incumbent: share merged,0,0.10869931138057964,0.04622395822792916,574,86
+inc_merged,Incumbent: share merged,1,-0.03585327813318377,0.08052040762826712,574,86
+inc_merged,Incumbent: share merged,2,-0.023616892747092014,0.09278063029647286,574,86
+inc_merged,Incumbent: share merged,3,0.04305350448748101,0.07738338387946916,574,86
+inc_merged,Incumbent: share merged,4,0.08401974911784525,0.043917622814272333,574,86
+inc_merged,Incumbent: share merged,5,-0.021924403042464628,0.06130503916294889,574,86

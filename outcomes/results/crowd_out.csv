@@ -1,0 +1,19 @@
+sample,outcome,spec,term,coef,se,n,repos
+everyone,merged,agent share,agent share 0 to 1,0.02446428798636143,0.11248958064251152,31396,221
+everyone,merged,volumes,"log agent pull requests, 30 days",-0.005206583405493755,0.005799696330705845,31396,221
+everyone,merged,volumes,"log other pull requests, 30 days",-0.006928113777129987,0.03217398288022073,31396,221
+everyone,log hours to merge,agent share,agent share 0 to 1,0.32900552860578375,0.4813516707653355,22332,206
+everyone,log hours to merge,volumes,"log agent pull requests, 30 days",0.004430579263238936,0.04108212021325713,22332,206
+everyone,log hours to merge,volumes,"log other pull requests, 30 days",0.027294284835470275,0.13829000239223535,22332,206
+regular contributors (10+ pull requests),merged,agent share,agent share 0 to 1,0.056609315800567016,0.1379413459688209,18347,103
+regular contributors (10+ pull requests),merged,volumes,"log agent pull requests, 30 days",-0.0021185769604840743,0.006340354537378414,18347,103
+regular contributors (10+ pull requests),merged,volumes,"log other pull requests, 30 days",0.008325167040567535,0.042979497856660484,18347,103
+regular contributors (10+ pull requests),log hours to merge,agent share,agent share 0 to 1,0.6643203409227111,0.48999123888094903,15082,99
+regular contributors (10+ pull requests),log hours to merge,volumes,"log agent pull requests, 30 days",0.008078376051252797,0.04172125122154387,15082,99
+regular contributors (10+ pull requests),log hours to merge,volumes,"log other pull requests, 30 days",0.030587072461317845,0.1388003554658577,15082,99
+occasional contributors (under 10),merged,agent share,agent share 0 to 1,0.046427907474573024,0.13652480330269443,13049,221
+occasional contributors (under 10),merged,volumes,"log agent pull requests, 30 days",-0.021116138581589408,0.010837933027620532,13049,221
+occasional contributors (under 10),merged,volumes,"log other pull requests, 30 days",-0.038969664711523765,0.03065082531349382,13049,221
+occasional contributors (under 10),log hours to merge,agent share,agent share 0 to 1,-1.2029527663391093,0.8266550194575695,7250,206
+occasional contributors (under 10),log hours to merge,volumes,"log agent pull requests, 30 days",-0.03492133759795338,0.08854913438586663,7250,206
+occasional contributors (under 10),log hours to merge,volumes,"log other pull requests, 30 days",0.027481528666805963,0.22572374560046796,7250,206

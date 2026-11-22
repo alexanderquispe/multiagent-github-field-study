@@ -1,0 +1,5 @@
+full_name,reason
+NixOS/nixpkgs,package registry: the repository is the collection of package definitions of a package manager
+microsoft/winget-pkgs,package registry: the repository is the collection of package definitions of a package manager
+Homebrew/homebrew-core,package registry: the repository is the collection of package definitions of a package manager
+Homebrew/homebrew-cask,package registry: the repository is the collection of package definitions of a package manager
